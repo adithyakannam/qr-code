@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/adithyakannam/qr-code/]
+- Live Site URL: [https://qr-code-beta-eight.vercel.app/]
 
 
 ### Built with
